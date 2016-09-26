@@ -1,2 +1,3 @@
-# team-repo
-1. Aziret Toktoraliev
+# team-repo1
+1. Dmitrii Labirov
+2. Aziret Toktoraliev 
